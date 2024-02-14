@@ -1,0 +1,3 @@
+[submodule "greenHouseApp"]
+	path = greenHouseApp
+	url = https://github.com/chethika96/GreenHouseFrontEnd.git
